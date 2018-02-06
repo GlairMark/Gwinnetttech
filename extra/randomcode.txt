@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>title</title>
+  </head>
+  <body>
+	<h1 align="center"> List of all the students </h1>
+
+	
+    Ariel, Niah;
+	
+	Benfield, Phillip; 
+	Bronola, Paul; 
+	Bronola, Glair Mark; 
+	
+	Champion, Stuart;
+	Crenshaw, Alahjee; 
+	Colclough, Eric; 
+	
+	Dalton, Dennis; 
+	David, Armon; 
+	
+	Francois, Danielle; 
+	
+	Golden, Alexis; 
+	
+	Hamrick, Renate;
+	
+	Jimenez, Erick; 
+	
+	Laurent, Cameron;
+	
+	Makina, Tinashe
+	Mwesigwa, Isaac; 
+	
+	Shapland, Caitlin; 
+	Swain, Annette; 
+	Syed, Shereen; 
+ 
+	Udibe, Godwin; 
+  
+	Weaver, Antoine; 
+    White, Greg
+	Wilson, Elijah; 
+  
+  
+
+  
+  
+  
+  
+  
+  
+ 
+ 
+  </body>
+</html>
